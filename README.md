@@ -7,15 +7,16 @@ Zomato is an Indian multinational restaurant aggregator and food delivery compan
 
 Data Collected from [kaggle](https://www.kaggle.com/datasets/rabhar/zomato-restaurants-in-india)
 
-## Here is some analaysis from the preoject
-* Number of restaurants in india.
-* Top 10 highest rating restaurants. 
-* Bttom 10 lowerest rating restaurants.
-* Average price of restaurants per person.
+# Here is some analysis of the project
+
+* A number of restaurants in India.
+* Top 10 highest-rating restaurants.
+* Bottom 10 lowerest rating restaurants.
+* The average price of restaurants per person.
 * Top 10 eating cuisines in India.
 * Establisment of restaurants.
 * Top 10 popular cities restaurants according to sharing photos.
-* Top 10 popluar cities  restaurants according to votes.
+* Top 10 popular cities restaurants according to votes.
 
 
 
