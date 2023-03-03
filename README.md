@@ -5,6 +5,9 @@
 Zomato is an Indian multinational restaurant aggregator and food delivery company, founded by Deepinder Goyal and Pankaj Chaddah in 2008. Zomato provides information, menus and user-reviews of restaurants as well as food delivery options from partner restaurants
 
 
+Data Collected from [kaggle](https://www.kaggle.com/datasets/rabhar/zomato-restaurants-in-india)
+
+
 ## Here is some analaysis from the preoject
 * Number of restaurants in india.
 * Top 10 highest rating restaurants. 
