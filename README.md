@@ -1,4 +1,4 @@
-# Indian Restaurants in zamato Analysis.
+# Indian Restaurants in zomato Analysis.
 
 ![f94129104166703 Y3JvcCwxMzgwLDEwODAsMjcwLDA](https://user-images.githubusercontent.com/111237089/222759326-96475d70-6398-497d-a93f-16b8118dabad.png)
 
